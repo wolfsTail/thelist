@@ -1,4 +1,6 @@
 env
 .env
 .vscode
-__pycashe__
+__pycache__
+docker-compose.localtest.yml
+docker-compose.localtestv2.yml
